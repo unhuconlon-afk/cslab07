@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="cslab07_Launcher/cslab07_Launcher.csproj" />
+  <Project Path="Lab08_QuanLyHocSinh/Lab08_QuanLyHocSinh.csproj" />
+  <Project Path="Lab09_QuanLyBanHang/Lab09_QuanLyBanHang.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+## Visual Studio and .NET build artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+*.suo
+
+## Database files
+*.db
+*.db-shm
+*.db-wal
